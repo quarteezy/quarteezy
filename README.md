@@ -12,7 +12,7 @@
 
 <h3 align="center">A 4th-Year Information Technology Student at New Era University, Quezon City, Philippines</h3>
 
-<h1 align="left">My Website & Resumee:</h1>
+<h1 align="left">My Website & Resume:</h1>
 
 <p align="center">
 <a href="https://sites.google.com/neu.edu.ph/dave-mendoza-it/">
