@@ -37,14 +37,14 @@
 </p><br>
 
 <h1>Certificates:</h1>
-<p align="center">
-    <a href="https://drive.google.com/file/d/1pzWCZvl084Pe62A-piVqrWTF0SXAMV-K/view?usp=sharing"> Best Technical Team</a>
+<p>
+    <h3 href="https://drive.google.com/file/d/1pzWCZvl084Pe62A-piVqrWTF0SXAMV-K/view?usp=sharing"> Best Technical Team</h3>
     <br>
-    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0E8748B5091922E81FE9472B4FE504E2A75B377BC8B350DC5E0238071B3922AD"> Oracle Cloud Infrastructure Foundations 2021 Certified Associate</a>
+    <h3 href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0E8748B5091922E81FE9472B4FE504E2A75B377BC8B350DC5E0238071B3922AD"> Oracle Cloud Infrastructure Foundations 2021 Certified Associate</h3>
     <br>
-    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B707619F7CACC525C8DCD0FB36ADCACD2CB33276408FDAF0932B79379BADF76D"> Oracle Autonomous Database Cloud 2021 Certified Specialist</a>
+    <h3 href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B707619F7CACC525C8DCD0FB36ADCACD2CB33276408FDAF0932B79379BADF76D"> Oracle Autonomous Database Cloud 2021 Certified Specialist</h3>
     <br>
-    <a href="https://drive.google.com/file/d/103evAhGZSYw8pz3l7qIXdbWbv1UbXFRZ/view?usp=sharing"> National Certificate III Bookkeeping Passer</a>
+    <h3 href="https://drive.google.com/file/d/103evAhGZSYw8pz3l7qIXdbWbv1UbXFRZ/view?usp=sharing"> National Certificate III Bookkeeping Passer</h3>
 </p> 
 
 <br>
