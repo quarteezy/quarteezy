@@ -36,4 +36,12 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 </p><br>
 
+<h1 align="left">Certificates:</h1>
+<p > 
+    <h3 align="left" >Best Technical Team</h3>
+    <h3 align="right" >July 1, 2022</h3>
+
+
+</p><br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=quarteezy&label=Profile%20views&color=0e75b6&style=flat" alt="quarteezy" /> </p>
