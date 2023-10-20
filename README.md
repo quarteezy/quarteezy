@@ -37,11 +37,9 @@
 </p><br>
 
 <h1>Certificates:</h1>
-<p >
     <span style="float: left;">Best Technical Team</span>
     <span style="float: right;">July 1, 2022</span>
     
-</p>
 
 <br>
 
