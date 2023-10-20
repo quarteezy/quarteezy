@@ -37,10 +37,10 @@
 </p><br>
 
 <h1>Certificates:</h1>
-<div style="display: flex; justify-content: space-between;">
-    <h3 style="text-align: left;">Best Technical Team</h3>
-    <h3 style="text-align: right;">July 1, 2022</h3>
-</div>
+<p>
+    <h3 align="center">Best Technical Team</h3>
+    <h3 align="center">July 1, 2022</h3>
+</p>
 
 <br>
 
