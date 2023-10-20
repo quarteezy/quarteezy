@@ -38,7 +38,7 @@
 
 <h1>Certificates:</h1>
 <p align="center">
-    <a href="https://drive.google.com/file/d/1pzWCZvl084Pe62A-piVqrWTF0SXAMV-K/view?usp=sharing"> Best Technical Team</a><a>                                                    July 1, 2022</a>
+    <a href="https://drive.google.com/file/d/1pzWCZvl084Pe62A-piVqrWTF0SXAMV-K/view?usp=sharing"> Best Technical Team</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a>July 1, 2022</a>
     
 </p> 
 
